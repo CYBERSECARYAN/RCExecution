@@ -5,9 +5,14 @@ All credit goes to awakened and valbrux
 
 PROCESS :-
 
-git clone https://github.com/CYBERSECARYAN/RCExecution
-apt-get install netcat
-cd RCExecution
-bash Start.sh OR ./Start.sh
+1. git clone https://github.com/CYBERSECARYAN/RCExecution
 
-# SUBSCRIBE :- www.YouTube.com/c/CYBERSEC
+2. apt-get install netcat
+
+3. cd RCExecution
+
+4. bash Start.sh OR ./Start.sh
+
+
+
+SUBSCRIBE :- www.YouTube.com/c/CYBERSEC
